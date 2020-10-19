@@ -1,0 +1,27 @@
+.App {
+  width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+.history-group {
+  display: flex;
+  justify-content: center;
+  width: 1200px;
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 5px;
+  text-align: left;
+}
+.global-stats > table {
+  margin: auto;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
